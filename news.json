@@ -1,0 +1,60 @@
+{
+  "status": "success",
+  "total_results": 6,
+  "articles": [
+    {
+      "id": 1,
+      "title": "India Launches New Tech Innovation Program",
+      "author": "Rohan Verma",
+      "category": "Technology",
+      "published_at": "2025-12-03T10:15:00Z",
+      "image_url": "https://example.com/images/tech1.jpg",
+      "content": "India announced a new innovation program focusing on AI, robotics, and space tech to boost startups and research across the nation."
+    },
+    {
+      "id": 2,
+      "title": "Global Markets Show Strong Growth",
+      "author": "Sanya Kapoor",
+      "category": "Business",
+      "published_at": "2025-12-02T14:30:00Z",
+      "image_url": "https://example.com/images/business1.jpg",
+      "content": "Stock markets around the world reported positive trends as investors showed confidence in the global economic recovery."
+    },
+    {
+      "id": 3,
+      "title": "Record-Breaking Rainfall in Mumbai",
+      "author": "Amit Desai",
+      "category": "Weather",
+      "published_at": "2025-12-01T18:00:00Z",
+      "image_url": "https://example.com/images/weather1.jpg",
+      "content": "Mumbai experienced its highest December rainfall in a decade, causing disruptions in traffic and daily activities."
+    },
+    {
+      "id": 4,
+      "title": "New Health Guidelines Introduced for Winter",
+      "author": "Dr. Neha Sharma",
+      "category": "Health",
+      "published_at": "2025-11-30T09:00:00Z",
+      "image_url": "https://example.com/images/health1.jpg",
+      "content": "The Health Ministry released new guidelines to prevent seasonal flu, including precautions for children and senior citizens."
+    },
+    {
+      "id": 5,
+      "title": "Upcoming Movie Breaks Advance Booking Records",
+      "author": "Raj Singh",
+      "category": "Entertainment",
+      "published_at": "2025-11-29T20:45:00Z",
+      "image_url": "https://example.com/images/movie1.jpg",
+      "content": "The upcoming action-thriller has already set a new record with millions of advance ticket bookings across India."
+    },
+    {
+      "id": 6,
+      "title": "National Sports Championship Begins Today",
+      "author": "Kavya Mehra",
+      "category": "Sports",
+      "published_at": "2025-11-28T07:30:00Z",
+      "image_url": "https://example.com/images/sports1.jpg",
+      "content": "Athletes from all states have gathered for the annual championship featuring 20+ sports events across a week-long competition."
+    }
+  ]
+}
