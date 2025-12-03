@@ -1,0 +1,267 @@
+[
+  {
+    "id": 101,
+    "name": "Apple iPhone 15 Pro",
+    "category": "Electronics",
+    "price": 129999,
+    "brand": "Apple",
+    "description": "Titanium design, A17 Pro chip, 48MP camera.",
+    "stock": 20,
+    "rating": 4.8,
+    "images": [
+      "https://example.com/images/iphone15pro-1.jpg",
+      "https://example.com/images/iphone15pro-2.jpg"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Samsung Galaxy S24 Ultra",
+    "category": "Electronics",
+    "price": 118999,
+    "brand": "Samsung",
+    "description": "200MP camera, Snapdragon 8 Gen 3, 120Hz AMOLED.",
+    "stock": 30,
+    "rating": 4.7,
+    "images": [
+      "https://example.com/images/s24ultra.jpg"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Sony WH-1000XM5 Headphones",
+    "category": "Electronics",
+    "price": 29999,
+    "brand": "Sony",
+    "description": "Noise-cancelling wireless over-ear headphones.",
+    "stock": 50,
+    "rating": 4.6,
+    "images": [
+      "https://example.com/images/sony-headphone.jpg"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "HP Pavilion Gaming Laptop",
+    "category": "Electronics",
+    "price": 78999,
+    "brand": "HP",
+    "description": "RTX 3050 GPU, 16GB RAM, Ryzen 5 processor.",
+    "stock": 15,
+    "rating": 4.5,
+    "images": [
+      "https://example.com/images/hp-gaming-laptop.jpg"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Boat Airdopes 441",
+    "category": "Electronics",
+    "price": 1999,
+    "brand": "Boat",
+    "description": "Bluetooth earbuds with long battery backup.",
+    "stock": 100,
+    "rating": 4.1,
+    "images": [
+      "https://example.com/images/boat-airdopes.jpg"
+    ]
+  },
+
+  {
+    "id": 106,
+    "name": "Men's Denim Jacket",
+    "category": "Fashion",
+    "price": 2499,
+    "brand": "Levi's",
+    "description": "Blue denim jacket with slim fit design.",
+    "stock": 40,
+    "rating": 4.3,
+    "images": [
+      "https://example.com/images/denim-jacket.jpg"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Women's Floral Dress",
+    "category": "Fashion",
+    "price": 1899,
+    "brand": "Zara",
+    "description": "Lightweight floral printed summer dress.",
+    "stock": 60,
+    "rating": 4.4,
+    "images": [
+      "https://example.com/images/floral-dress.jpg"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Men's Running Shoes",
+    "category": "Fashion",
+    "price": 2999,
+    "brand": "Nike",
+    "description": "Lightweight breathable running shoes.",
+    "stock": 35,
+    "rating": 4.6,
+    "images": [
+      "https://example.com/images/nike-shoes.jpg"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Women's Handbag",
+    "category": "Fashion",
+    "price": 1499,
+    "brand": "Caprese",
+    "description": "Stylish handbag with multiple compartments.",
+    "stock": 80,
+    "rating": 4.2,
+    "images": [
+      "https://example.com/images/handbag.jpg"
+    ]
+  },
+
+  {
+    "id": 110,
+    "name": "Wooden Study Table",
+    "category": "Home & Furniture",
+    "price": 5499,
+    "brand": "HomeTown",
+    "description": "Solid wood study table with storage shelves.",
+    "stock": 12,
+    "rating": 4.5,
+    "images": [
+      "https://example.com/images/study-table.jpg"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Queen Size Bed",
+    "category": "Home & Furniture",
+    "price": 16999,
+    "brand": "Ikea",
+    "description": "Modern bed with durable wooden frame.",
+    "stock": 8,
+    "rating": 4.7,
+    "images": [
+      "https://example.com/images/queen-bed.jpg"
+    ]
+  },
+  {
+    "id": 112,
+    "name": "LED Ceiling Light",
+    "category": "Home & Furniture",
+    "price": 799,
+    "brand": "Philips",
+    "description": "Energy-efficient LED ceiling light.",
+    "stock": 120,
+    "rating": 4.1,
+    "images": [
+      "https://example.com/images/ceiling-light.jpg"
+    ]
+  },
+
+  {
+    "id": 113,
+    "name": "Skin Brightening Face Serum",
+    "category": "Beauty",
+    "price": 799,
+    "brand": "Mamaearth",
+    "description": "Vitamin C face serum for glowing skin.",
+    "stock": 150,
+    "rating": 4.3,
+    "images": [
+      "https://example.com/images/face-serum.jpg"
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Makeup Kit Combo",
+    "category": "Beauty",
+    "price": 1299,
+    "brand": "Maybelline",
+    "description": "Complete makeup kit with foundation, blush, lipstick.",
+    "stock": 70,
+    "rating": 4.5,
+    "images": [
+      "https://example.com/images/makeup-kit.jpg"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Aloe Vera Moisturizer",
+    "category": "Beauty",
+    "price": 499,
+    "brand": "Pond's",
+    "description": "Hydrating aloe vera moisturizer for dry skin.",
+    "stock": 100,
+    "rating": 4.2,
+    "images": [
+      "https://example.com/images/moisturizer.jpg"
+    ]
+  },
+
+  {
+    "id": 116,
+    "name": "Yonex Badminton Racket",
+    "category": "Sports",
+    "price": 2199,
+    "brand": "Yonex",
+    "description": "Lightweight graphite badminton racket.",
+    "stock": 45,
+    "rating": 4.6,
+    "images": [
+      "https://example.com/images/badminton-racket.jpg"
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Football Size 5",
+    "category": "Sports",
+    "price": 899,
+    "brand": "Nivia",
+    "description": "Durable football suitable for turf and grass.",
+    "stock": 95,
+    "rating": 4.4,
+    "images": [
+      "https://example.com/images/football.jpg"
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Cricket Bat",
+    "category": "Sports",
+    "price": 1499,
+    "brand": "MRF",
+    "description": "English willow cricket bat with superior grip.",
+    "stock": 20,
+    "rating": 4.5,
+    "images": [
+      "https://example.com/images/cricket-bat.jpg"
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Yoga Mat",
+    "category": "Sports",
+    "price": 699,
+    "brand": "Decathlon",
+    "description": "Non-slip yoga mat with comfortable thickness.",
+    "stock": 110,
+    "rating": 4.3,
+    "images": [
+      "https://example.com/images/yoga-mat.jpg"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Dumbbell Set 10kg",
+    "category": "Sports",
+    "price": 1599,
+    "brand": "Kobo",
+    "description": "10kg adjustable dumbbell set for home workouts.",
+    "stock": 25,
+    "rating": 4.5,
+    "images": [
+      "https://example.com/images/dumbbells.jpg"
+    ]
+  }
+]
