@@ -1,4 +1,4 @@
-{
+[
   {
     "id": 1,
     "name": "Royal Palace Resort",
@@ -299,4 +299,4 @@
     "image": "https://example.com/images/diamond.jpg",
     "is_available": true
   }
-}
+]
